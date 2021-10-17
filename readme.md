@@ -1,0 +1,20 @@
+# Influences
+
+- https://github.com/ellson/MOTHBALLED-graphviz/tree/master/rtest/graphs
+- https://graphviz.org/doc/info/lang.html
+- https://github.com/anvaka/dotparser
+- https://github.com/ts-graphviz/ts-graphviz
+- https://github.com/dagrejs/graphlib-dot
+- https://github.com/magjac/d3-graphviz
+- https://github.com/gmamaladze/d3-dot-graph
+- https://github.com/gyuque/livizjs
+- https://github.com/hpcc-systems/hpcc-js-wasm
+- https://github.com/mdaines/viz.js
+- http://viz-js.com
+- http://webgraphviz.com
+- http://instaviz.com
+- https://sketchviz.com/new
+- https://news.ycombinator.com/item?id=16077158
+- https://codefreezr.github.io/awesome-graphviz/
+- https://dreampuf.github.io/GraphvizOnline/
+- https://plantuml.com/state-diagram
